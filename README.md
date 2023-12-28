@@ -14,11 +14,13 @@ Once the setup script has finished running, you need to follow these steps:
 
 2. Go to your browsers extension page (e.g. [chrome://extensions/](chrome://extensions/))
 
-3. Click on the `load unpacked` button
+3. Toggle to activate `Developer Mode` on top right
 
-4. Select the newly generated `build` folder
+4. Click on the `load unpacked` button
 
-5. Good to go!
+5. Select the newly generated `build` folder
+
+6. Good to go!
 
 ### 3. Paste your API key
 
@@ -43,3 +45,7 @@ https://user-images.githubusercontent.com/24496843/193957293-565973ae-cc94-4489-
 ### Text insertion
 
 https://user-images.githubusercontent.com/24496843/193957303-927762c0-4af4-4684-ad35-c19216b5dea8.mov
+
+## Donations
+
+If you enjoy my work, please donate [here](https://paypal.me/danimelchor)
